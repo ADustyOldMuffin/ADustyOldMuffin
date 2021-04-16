@@ -12,8 +12,6 @@
   <img align="left" alt="Daniel Hix Itch" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />
 </a>
 
-<br />
-
 I'm a software engineer currently working at a company called PDI where I work on software for the wholesale fuel industry. I love what I do and it's my passion. Astronomy, outer space, and the pursuit of knowledge are also things that I enjoy as well as my many side projects I work on to learn new technology. 
 
 <br />
